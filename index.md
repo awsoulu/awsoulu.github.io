@@ -2,14 +2,15 @@
 
 ## Upcoming events
 
+### 2023-10-05?
+
+## Previous events
+
 ### 2023-03-05 - [AWS User Group meeting sponsored by Nortal](https://www.meetup.com/aws-user-group-oulu/events/293014402/)
 
  * Principles of Zero Trust in AWS – Jyrki Puttonen, AWS
  * What AWS offers for .NET developers and modern .NET applications? - Aki Pehkonen, Nortal
 
- Fully booked at the moment, but please do not hesitate to sign up for waiting list [here (meetup.com)](https://www.meetup.com/aws-user-group-oulu/events/293014402/).
-
-## Previous events
 
 ### 2022-11-30
 
