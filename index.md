@@ -2,7 +2,7 @@
 
 ## Upcoming events
 
-### 2023-10-05?
+### 2023-10-05 - [AWS User Group meeting sponsored by Nortal](https://www.meetup.com/aws-user-group-oulu/events/296272119/)
 
 ## Previous events
 
