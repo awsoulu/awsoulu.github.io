@@ -4,13 +4,16 @@
 
 ### 2023-11-15
 
- * 15.11. 16:30 - 19:00 Hallituskatu 36 B, Telesali Business Asema
- * Agenda etc. TBA
- * [Join meetup group](https://www.meetup.com/aws-user-group-oulu/) and stay tuned!
+  * 15.11. 16:30 - 19:00 Hallituskatu 36 B, Telesali Business Asema
+  * Agenda etc. TBA
+  * [Join meetup group](https://www.meetup.com/aws-user-group-oulu/) and stay tuned!
 
 ## Previous events
 
 ### 2023-10-05 - [AWS User Group meeting sponsored by Nortal](https://www.meetup.com/aws-user-group-oulu/events/296272119/)
+
+ * Why App Runner is an excellent service for running containers in the cloud - Aki Pehkonen, Nortal
+ * How AWS is used in the daily work of software engineers at Wolt, Rami Keränen & Olli-Petteri Tuuttila, Wolt
 
 ### 2023-03-05 - [AWS User Group meeting sponsored by Nortal](https://www.meetup.com/aws-user-group-oulu/events/293014402/)
 
