@@ -5,8 +5,16 @@
 ### 2023-11-15
 
   * 15.11. 16:30 - 19:00 Hallituskatu 36 B, Telesali Business Asema
-  * Agenda etc. TBA
+  * Agenda
+    - Welcome - Jussi Leponiemi, Key account director, Business Oulu
+    - Understanding your CloudWatch Metrics for actionable insights – Pekka Lehtomäki, Staff Engineer, Mapbox
+    - Generative AI at AWS – Jyrki Puttonen, Solutions Architect, Amazon Web Services
   * [Join meetup group](https://www.meetup.com/aws-user-group-oulu/) and stay tuned!
+  * Related things:
+     - [Creating metrics from log events using filters](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/MonitoringLogData.html)
+     - [Using filter patterns to match terms in JSON log events
+](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/FilterAndPatternSyntax.html#matching-terms-json-log-events)
+     - [Stephen Wolfram: What is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
 ## Previous events
 
