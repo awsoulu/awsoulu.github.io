@@ -2,7 +2,11 @@
 
 ## Upcoming events
 
-  * [Join meetup group](https://www.meetup.com/aws-user-group-oulu/) and stay tuned! :-)
+  * [Join meetup group](https://www.meetup.com/aws-user-group-oulu/) to stay up to date :-)
+
+### 2024-02-14
+
+  * [AWS Gameday sponsored by WithSecure](https://www.meetup.com/aws-user-group-oulu/events/298773273/)
 
 ## Previous events
 
